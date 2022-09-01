@@ -10,6 +10,25 @@ h2{
     border-radius: 100px;
 
 }
+.homeimage {
+    background-image : linear-gradient(rgb(223, 153, 231),rgb(215, 169, 108));
+    width: 500px;;
+    height: 600px;
+    float : right;
+
+
+}
+.top {
+      width :1000px;
+      max-width: 90%;
+      margin: auto;
+      margin-left: 150px;
+      display: center;
+      align-items: center;
+      justify-content: space-around;
+      
+  
+}
 body {
     background-image : linear-gradient(rgb(223, 153, 231),rgb(215, 169, 108));
     color :-webkit-validation-bubble-arrow;
