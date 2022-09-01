@@ -5,23 +5,23 @@ h2{
     color: rgb(141, 57, 135);
 }
 .radius {
-    width: 250px;;
-    height: 250px;
-    border-radius: 175px;
+    width: 200px;;
+    height: 200px;
+    border-radius: 100px;
 }
 body {
     background-color:rgba(245, 245, 245, 0.804));
     color:blue;
     height: 1.6;
     margin:0;
-           
-}
-.top {
-    background-color: burlywood;
-    text-align: right;
-    align-content: left;
+          
 }
 
+.radius {
+    display :flex;
+    float : right;
+    
+}
 .container {
     width: 85%;
     margin:auto;
