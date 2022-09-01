@@ -8,13 +8,14 @@ h2{
     width: 200px;;
     height: 200px;
     border-radius: 100px;
+
 }
 body {
-    background-color:rgba(245, 245, 245, 0.804));
-    color:blue;
+    background-image : linear-gradient(rgb(223, 153, 231),rgb(215, 169, 108));
+    color :-webkit-validation-bubble-arrow;
     height: 1.6;
     margin:0;
-          
+           
 }
 
 .radius {
